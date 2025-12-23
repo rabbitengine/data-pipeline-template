@@ -1,0 +1,11 @@
+order_id,customer_id,product,quantity,price,order_date
+1,101,Mechanical Keyboard,2,89.99,2024-01-15
+2,102,USB-C Hub,1,49.99,2024-01-16
+3,101,Monitor Stand,3,34.99,2024-01-17
+4,103,Mechanical Keyboard,1,89.99,2024-01-18
+5,102,Webcam HD,2,79.99,2024-01-19
+6,104,USB-C Hub,5,49.99,2024-01-20
+7,101,Desk Lamp,1,45.99,2024-01-21
+8,105,Webcam HD,3,79.99,2024-01-22
+9,103,Monitor Stand,2,34.99,2024-01-23
+10,104,Mechanical Keyboard,4,89.99,2024-01-24

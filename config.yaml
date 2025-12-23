@@ -1,0 +1,11 @@
+pipeline:
+  name: "orders-etl"
+  version: "1.0.0"
+
+source:
+  type: "csv"
+  file: "orders.csv"
+
+destination:
+  type: "parquet"
+  file: "orders_enriched.parquet"

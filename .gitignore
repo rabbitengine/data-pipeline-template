@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+.ruff_cache/
+
+# Environment
+.env
+
+# Output
+output/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
